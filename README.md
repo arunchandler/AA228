@@ -1,1 +1,1 @@
-# AA228
+Checkers bot that uses a Monte-Carlo tree search algorithm to find its next move.
